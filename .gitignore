@@ -1,0 +1,8 @@
+Phishing_Email.csv
+app_backup.py
+app.py (Streamlit interface).txt
+logistic.py.txt
+train model.py
+train_model.py
+__pycache__/
+*.pyc
