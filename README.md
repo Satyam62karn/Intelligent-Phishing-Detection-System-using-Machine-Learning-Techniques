@@ -1,4 +1,4 @@
-Haan bhai. **Sab kuch ek hi README me**, alag-alag nahi. Ye **single complete professional `README.md`** hai—starting se ending tak. Bas pura copy-paste kar dena.
+
 
 ````markdown
 # 🛡️ Intelligent Phishing Detection System using Machine Learning Techniques
